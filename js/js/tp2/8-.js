@@ -7,5 +7,5 @@ console.log("El numero" + " " + numero + " " + "es divisible por 2")
 }else{
 
 console.log("El numero" + " " + numero + " " + "no es divisible por 2"  )
-
+ 
 }
